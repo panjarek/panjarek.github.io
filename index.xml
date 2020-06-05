@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pewne Rzeczy on Pewne Rzeczy</title>
+		<link>https://example.com/</link>
+		<description>Recent content in Pewne Rzeczy on Pewne Rzeczy</description>
+		<generator>Hugo -- gohugo.io</generator>
+		
+  		<language>en</language>
+		
+		<managingEditor>Page(&#34;Pewne Rzeczy&#34;) (Pan Jarek)</managingEditor>
+    	
+		<atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+		
+	</channel>
+</rss>
