@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Pewne Rzeczy on Pewne Rzeczy</title>
-		<link>https://example.com/</link>
+		<link>https://panjarek.github.io/</link>
 		<description>Recent content in Pewne Rzeczy on Pewne Rzeczy</description>
 		<generator>Hugo -- gohugo.io</generator>
 		
@@ -11,13 +11,13 @@
     	
   		<lastBuildDate>Fri, 05 Jun 2020 09:42:50 +0100</lastBuildDate>
 		
-		<atom:link href="https://example.com/" rel="self" type="application/rss+xml" />
+		<atom:link href="https://panjarek.github.io/" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>My First</title>
-			<link>https://example.com/post/my-first/</link>
+			<link>https://panjarek.github.io/post/my-first/</link>
 			<pubDate>Fri, 05 Jun 2020 09:42:50 +0100</pubDate>
-			<guid>https://example.com/post/my-first/</guid>
+			<guid>https://panjarek.github.io/post/my-first/</guid>
 			<description></description>
 		</item>
       	
